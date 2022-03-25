@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI+THERE+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+THERE+👋)](https://git.io/typing-svg)
 ____
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deomap)](https://github.com/anuraghazra/github-readme-stats)
