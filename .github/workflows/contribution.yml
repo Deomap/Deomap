@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Deomap/metrics@latest
         with:
          filename: metrics.plugin.isocalendar.fullyear.svg
          token: ${{ secrets.README }}
