@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Deomap/metrics@latest
         with:
-         filename: metrics.plugin.languages.recent.svg
+         filename: metrics.plugin.languages.indepth.svg
          token: ${{ secrets.README }}
          base: ""
          plugin_languages: yes
