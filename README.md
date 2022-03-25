@@ -1,4 +1,5 @@
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/metrics.classic.svg)
 <!--
 **Deomap/Deomap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
