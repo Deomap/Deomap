@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+THERE+👋)](https://git.io/typing-svg)
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
 ____
 
 <!--
